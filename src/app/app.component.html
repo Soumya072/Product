@@ -1,0 +1,34 @@
+<h1> WELCOME TO SHOPPING CART</h1>
+<div>
+  <div class="lists" *ngFor="let x of items">
+    <div class="img">
+      <img style="width: 140px;height: 140px;" [src]="x.image"/>
+      <p><b>{{x.offerText}}</b></p>
+    </div>
+    <div class="product">
+      <ul style="list-style-type: none;">
+        <li>{{x.brand}}</li>
+        <li>{{x.name}}</li>
+        <li>{{x.mrp}}</li>
+        <li>{{x.price}}</li>
+      </ul>
+      <button (click)="addCart(x.id)">ADD CART</button>
+    <button (click)="add(x.id)">+</button>
+    {{x.quantity}}
+    <button (click)="decrease(x.id)">-</button>
+
+    </div>
+    
+  </div>
+
+  <div style="background-color: pink;padding-top: 10px;">
+    <ul >
+      <li>Quantity:{{quantity}}</li>
+      <li >Total:{{totalCost}}</li>
+    </ul>
+    <button id="checkout" (click)="openModal()">
+      checkout
+    </button>
+  </div>
+</div>
+

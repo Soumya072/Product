@@ -1,0 +1,133 @@
+[{
+    "id":0,
+    "brand":"Amul",
+    "name":"Amul Pure Ghee",
+    "quantity":0,
+    "price":405,
+    "mrp":415,
+    "image":"../assets/images/amul-ghee.jpg",
+    "offerText":"10% OFF"
+
+},
+{
+    "id":1,
+    "brand":"Demop",
+    "name":"Medical Gloves",
+    "quantity":0,
+    "price":405,
+    "mrp":415,
+    "image":"../assets/images/Demop.jpg",
+    "offerText":"Rs 10 OFF"
+
+},
+{
+    "id":2,
+    "brand":"Handpro",
+    "name":"Medical Gloves",
+    "quantity":0,
+    "price":385,
+    "mrp":415,
+    "image":"../assets/images/handpro.jpg",
+    "offerText":"10% OFF"
+
+},
+{
+    "id":3,
+    "brand":"Dettol",
+    "name":"Sanitizer",
+    "quantity":0,
+    "price":80,
+    "mrp":85,
+    "image":"../assets/images/detol.jpg",
+    "offerText":"Rs 5 OFF"
+
+},
+{
+    "id":4,
+    "brand":"lifeboy",
+    "name":"Sanitizer",
+    "quantity":0,
+    "price":50,
+    "mrp":55,
+    "image":"../assets/images/lifeboy.jpg",
+    "offerText":"Rs 5 OFF"
+
+},
+{
+    "id":5,
+    "brand":"Addidas",
+    "name":"Mask",
+    "quantity":0,
+    "price":1405,
+    "mrp":1415,
+    "image":"../assets/images/mask2.jpg",
+    "offerText":"1% OFF"
+
+},
+{
+    "id":6,
+    "brand":"Local",
+    "name":"mask",
+    "quantity":0,
+    "price":405,
+    "mrp":415,
+    "image":"../assets/images/mask1.jpg",
+    "offerText":"5% OFF"
+
+},
+{
+    "id":7,
+    "brand":"Twenoz",
+    "name":"Gloves",
+    "quantity":0,
+    "price":300,
+    "mrp":600,
+    "image":"../assets/images/twenoz.jpg",
+    "offerText":"50% OFF"
+
+},
+{
+    "id":8,
+    "brand":"HMT",
+    "name":"Watch",
+    "quantity":0,
+    "price":10405,
+    "mrp":14150,
+    "image":"../assets/images/watch2.jpg",
+    "offerText":"10% OFF"
+
+},
+{
+    "id":9,
+    "brand":"G1",
+    "name":"Watch",
+    "quantity":0,
+    "price":1005,
+    "mrp":1415,
+    "image":"../assets/images/watch1.jpg",
+    "offerText":"10% OFF"
+
+},
+{
+    "id":10,
+    "brand":"Cello",
+    "name":"Watter Bottle",
+    "quantity":0,
+    "price":305,
+    "mrp":415,
+    "image":"../assets/images/Water-bottle.jpg",
+    "offerText":"30% OFF"
+
+},
+{
+    "id":11,
+    "brand":"Milton",
+    "name":"Amul Pure Ghee",
+    "quantity":0,
+    "price":810,
+    "mrp":900,
+    "image":"../assets/images/stainless-steel-water-bottle.jpg",
+    "offerText":"10% OFF"
+
+}
+]

@@ -34,8 +34,13 @@ export class AppComponent implements OnInit{
   }
   decrease(i: number){
     this.action=false;
-    if(this.quantity>0){
+    if(this.items[i].quantity>0){
       this.items[i].quantity=this.items[i].quantity-1;
+
+    }
+    
+    if(this.quantity>0){
+     
       this.totalCost=this.totalCost-this.items[i].price;
       this.quantity=this.quantity-1;  
     }
